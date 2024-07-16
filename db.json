@@ -1,0 +1,58 @@
+{
+    "card":[
+        {
+            "id": 1,
+            "nombre": "Stormtrooper",
+            "precio": "$ 60,00",
+            "url": "img/unsplash_6FDXGY9J6y4.svg"
+        },
+        {
+            "id": 2,
+            "nombre": "Game Boy Classic",
+            "precio": "$ 60,00",
+            "url": "img/image 2.svg"
+        },
+        {
+            "id": 3,
+            "nombre": "Stormtrooper",
+            "precio": "$ 60,00",
+            "url": "img/unsplash_6FDXGY9J6y4.svg"
+        },
+        {
+            "id": 4,
+            "nombre": "Stormtrooper",
+            "precio": "$ 60,00",
+            "url": "img/unsplash_6FDXGY9J6y4.svg"
+        },
+        {
+            "id": 5,
+            "nombre": "Game Boy Classic",
+            "precio": "$ 60,00",
+            "url": "img/image 2.svg"
+        },
+        {
+            "id": 6,
+            "nombre": "Stormtrooper",
+            "precio": "$ 60,00",
+            "url": "img/unsplash_6FDXGY9J6y4.svg"
+        },
+        {
+            "id": 7,
+            "nombre": "Stormtrooper",
+            "precio": "$ 60,00",
+            "url": "img/unsplash_6FDXGY9J6y4.svg"
+        },
+        {
+            "id": 8,
+            "nombre": "Game Boy Classic",
+            "precio": "$ 60,00",
+            "url": "img/image 2.svg"
+        },
+        {
+            "id": 9,
+            "nombre": "Stormtrooper",
+            "precio": "$ 60,00",
+            "url": "img/unsplash_6FDXGY9J6y4.svg"
+        }
+    ]
+}
